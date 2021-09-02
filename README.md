@@ -32,11 +32,10 @@ Piezo Buzzer is connected to D11 pin of Arduino Nano
 | Button 7 |  D10 |
 | Buzzer |  D11 |
 
-![Connections](./images/conn.png)
-
 ## The Code
 
-Before you can start playing your piano, you will need to obtain and install the Tone Arduino library if it is not already installed. This can be downloaded from Github here. If you do not know how to install third-party Arduino libraries in your version of the Arduino IDE, reference this guide on Arduino.cc. Attached below, you will find a zip file that contains the Arduino code for Arduino Piano. Download it and unzip it somewhere on your computer. Open Arduino_Piano.ino in the Arduino IDE and upload the code to your Arduino.
+Before you can start playing your piano, you will need to obtain and install the Tone Arduino library if it is not already installed. 
+then paste the code from the ppt
 
 ## Play Time!
 
